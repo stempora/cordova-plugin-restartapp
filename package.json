@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-restartapp",
+  "version": "0.0.1",
+  "description": "navigator.app.restartApp on Android",
+  "cordova": {
+    "id": "cordova-plugin-restartapp",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangang/cordova-plugin-restartapp.git"
+  },
+  "keywords": [
+    "cordova",
+    "restart",
+    "terminate",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "huangang <huangang.zhang@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/huangang/cordova-plugin-restartapp/issues"
+  },
+  "homepage": "https://github.com/huangang/cordova-plugin-restartapp#readme",
+  "main": "www/cordova-plugin-restartapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
