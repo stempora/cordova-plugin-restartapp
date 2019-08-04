@@ -1,5 +1,4 @@
 # RestartApp PhoneGap/Cordova Plugin
-changed support cordova 7.0+ & publish npm list
 
 ### Platform Support
 
